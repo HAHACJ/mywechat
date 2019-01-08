@@ -27,6 +27,7 @@ import java.util.concurrent.TimeUnit;
 @Slf4j
 public class WeiXinUtil {
 
+
     private static final String APP_ID = "";
 
     private static final String APP_SECRECT = "";
